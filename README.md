@@ -3,14 +3,15 @@
 # 🏥 HMS — Hospital Management System
 ### *A full-stack doctor appointment booking platform with separate patient & admin experiences*
 
-![Home Screen]("C:\Users\shrey\Downloads\Homescreen.jpeg")
-![Login]("C:\Users\shrey\Downloads\Login.jpeg")
-![Create account]("C:\Users\shrey\Downloads\create account.jpeg")
-![Admin Dashboard]("C:\Users\shrey\Downloads\Admin Dashboard.jpeg")
-![Appointments]("C:\Users\shrey\Downloads\Appointments.jpeg")
-![Add Doctors]("C:\Users\shrey\Downloads\Add doctors.jpeg")
-![Book Appointment]("C:\Users\shrey\Downloads\Book Appointment.jpeg")
-![Razorpay]("C:\Users\shrey\Downloads\Payment.jpeg")
+<img width="1507" height="632" alt="Payment" src="https://github.com/user-attachments/assets/bdbe3e14-eac7-4b58-a51c-cf2bdc7cfc18" />
+<img width="1600" height="595" alt="Book Appointment" src="https://github.com/user-attachments/assets/9034cec6-cefa-40ef-81d0-0066ffce88b0" />
+<img width="1600" height="624" alt="Add doctors" src="https://github.com/user-attachments/assets/71b6dfb4-8ff3-412c-b2ac-6cb4009a2bca" />
+<img width="1600" height="535" alt="Appointments" src="https://github.com/user-attachments/assets/c2d6896c-5ec9-4652-a2c9-77276e0a5c95" />
+<img width="1600" height="574" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/4f1ebd47-e118-49fb-a552-ee7e57607157" />
+<img width="1600" height="612" alt="create account" src="https://github.com/user-attachments/assets/8a5b300f-1f83-429a-865b-29310fb1b3f8" />
+<img width="1536" height="626" alt="Login" src="https://github.com/user-attachments/assets/b155d2fe-4a74-4d39-acfb-fb7a6134e302" />
+<img width="1600" height="624" alt="Homescreen" src="https://github.com/user-attachments/assets/c1f40464-3a60-4d60-ae16-afd4587ea3a8" />
+
 
 **Patients book. Doctors manage. Admins oversee. One MongoDB backend powers all three.**
 
